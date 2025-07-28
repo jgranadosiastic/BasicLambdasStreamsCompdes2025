@@ -20,7 +20,7 @@ public class EjercicioSinLambdasA {
                 new Persona("Juan", "Lopez", 15)
         );
         
-        // ordenar de forma ascendente en base al apellido
+        // ordenar de forma ascendente en base al apellido usando clases anonimas
         Collections.sort(personas, new Comparator<Persona>() {
             @Override
             public int compare(Persona o1, Persona o2) {

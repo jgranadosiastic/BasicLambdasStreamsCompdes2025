@@ -8,7 +8,7 @@ package com.jgranados.basiclambdasstreamscompdes2025.lambdas.after;
 
 /**
  * StreamsAndLambdasBasics
- * @author jose - 28.03.2020 
+ * @author jose - 24.07.2025 
  * @Title: InterfazNumeros
  * @Description: description
  *
